@@ -1,1 +1,2 @@
 # MultilayerPerceptron
+This is a Multilayer Perceptron for optical-digit classification. Train the MLP using the optdigits train.txt data, tune the minimum node entropy using optdigits valid.txt data, and test the prediction performance using the optdigits test.txt data. For each file, the first 64 columns correspond to the binary features for different samples while the last one stores the labels.
